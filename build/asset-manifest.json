@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kit-deploy-test/static/js/main.d01cb182.js",
+    "index.html": "/kit-deploy-test/index.html",
+    "main.d01cb182.js.map": "/kit-deploy-test/static/js/main.d01cb182.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d01cb182.js"
+  ]
+}
